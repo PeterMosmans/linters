@@ -1,0 +1,3 @@
+linkfiles=(
+    [.]="lint-jenkins lintjinja.py"
+)
