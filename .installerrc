@@ -1,3 +1,7 @@
 linkfiles=(
-    [.]="lint-jenkins lintjinja.py"
+    ["."]="lint-jenkins lintjinja.py"
+)
+
+aliases=(
+    ["lintjinja.py"]="lintjinja"
 )
